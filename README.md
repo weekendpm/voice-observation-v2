@@ -130,5 +130,8 @@ Four pre-generated WAV files in `api/demo_calls/`:
 ├── generate_demo_calls.py
 ├── requirements.txt
 └── thoughtprocess.md    # Design decisions and roadmap
-``` <img width="1661" height="961" alt="image" src="https://github.com/user-attachments/assets/dcca63da-bc39-4fe7-b502-6fe71d9ead93" />
+```
+<img width="1642" height="961" alt="Screenshot 2026-05-04 at 6 05 28 PM" src="https://github.com/user-attachments/assets/3c5853f0-8f12-4b4d-bf12-703fc5719536" />
+
+
 
