@@ -11,3 +11,4 @@ python-dotenv==1.0.1
 pydantic==2.8.2
 aiofiles==24.1.0
 requests==2.32.3
+python-multipart==0.0.9
