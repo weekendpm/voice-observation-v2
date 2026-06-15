@@ -4,7 +4,7 @@ import base64
 import os
 from pathlib import Path
 
-API_URL = "http://localhost:8000"
+API_URL = os.getenv("API_URL", "https://sarvam-voice-obs-production.up.railway.app")
 DEMO_DIR = Path("api/demo_calls")
 
 st.set_page_config(page_title="VoiceTrace", layout="wide", page_icon="🔊")
